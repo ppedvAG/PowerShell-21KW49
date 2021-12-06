@@ -1,0 +1,1 @@
+## Hier finden sie die Möglichen Lösungen, Hilfreiche Tipps und Beispiele. Zu den ersten 2 Tagen Powershell Kurs.
