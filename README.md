@@ -9,3 +9,7 @@ Begleitende Informationen zu den PowerShell Kursen der ppedv AG in KW 49
 - Einführung
 - Commandlets
 - Module
+- Pipeline 1
+- Variablen
+- Operationen
+- Formatierung der Ausgabe
