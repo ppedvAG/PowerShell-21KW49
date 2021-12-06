@@ -13,3 +13,5 @@ Begleitende Informationen zu den PowerShell Kursen der ppedv AG in KW 49
 - Variablen
 - Operationen
 - Formatierung der Ausgabe
+- Sortieren, Messen, Selektieren
+- Pipeline 1
