@@ -1,0 +1,3 @@
+GivenName,SurName,Name,SamAccountName,Department,Path,Enabled,Password
+Rodney,McKay,Rodney McKay,Rodney.McKday,SG Atlantis,"OU=Stargate,DC=ppedv,DC=kurs",true,ppedv2020!
+John,Sheppard,John Sheppard,John.Sheppard,SG Atlantis,"OU=Stargate,DC=ppedv,DC=kurs",true,ppedv2020!

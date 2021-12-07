@@ -1,0 +1,3 @@
+GivenName,SurName,Name,SamAccountName,Department,Path,Enabled,Passwort
+Samantha,Carter,Samantha Carter,Samantha.Carter,SG1,"OU=Stargate,DC=ppedv,DC=kurs",true,ppedv2020!
+Daniel,Jackson,Daniel Jackson,Daniel.Jackson,SG1,"OU=Stargate,DC=ppedv,DC=kurs",true,ppedv2020!
