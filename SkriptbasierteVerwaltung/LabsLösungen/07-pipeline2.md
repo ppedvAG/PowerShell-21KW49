@@ -1,4 +1,4 @@
-## Mögliche Lösung zur Übung: Pipeline 1
+## Mögliche Lösung zur Übung: Pipeline 2
 
 ### Aufgabe 1:
 ```powershell
