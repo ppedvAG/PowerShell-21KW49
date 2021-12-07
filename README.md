@@ -15,3 +15,5 @@ Begleitende Informationen zu den PowerShell Kursen der ppedv AG in KW 49
 - Formatierung der Ausgabe
 - Sortieren, Messen, Selektieren
 - Pipeline 1
+---
+- Pipeline 2
