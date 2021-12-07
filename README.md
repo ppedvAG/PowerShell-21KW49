@@ -17,3 +17,5 @@ Begleitende Informationen zu den PowerShell Kursen der ppedv AG in KW 49
 - Pipeline 1
 ---
 - Pipeline 2
+- Konvertieren / Importieren / Exportieren
+- Filtern
