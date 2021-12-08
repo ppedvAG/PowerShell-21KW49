@@ -27,3 +27,4 @@ Begleitende Informationen zu den PowerShell Kursen der ppedv AG in KW 49
 ## Agenda 2. Teil
 - Einleitung
 - Git
+- DSC 
