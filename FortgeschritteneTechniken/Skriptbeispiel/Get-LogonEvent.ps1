@@ -25,11 +25,14 @@
 #>
 [cmdletBinding()]
 Param(
+[ValidateSet(4624,4625,4634)]
 [Parameter(Mandatory=$true)]
 [int]$EventId,
 
+[ValidateRange(1,10)]
 [int]$Newest = 5,
 
+[ValidateScript({Test-NetConnection -ComputerName $PSItem -CommonTCPPort WINRM -InformationLevel Quiet})]
 [string]$ComputerName = "localhost"
 )
 
