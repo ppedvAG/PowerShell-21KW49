@@ -1,0 +1,1 @@
+## Hier finden sie die Möglichen Lösungen, Hilfreiche Tipps und Beispiele. Zum Fortgeschrittenen Teil der Windows PowerShell Schulung.
