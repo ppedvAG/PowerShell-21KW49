@@ -28,3 +28,4 @@ Begleitende Informationen zu den PowerShell Kursen der ppedv AG in KW 49
 - Einleitung
 - Git
 - DSC 
+- Skriptsicherheit
