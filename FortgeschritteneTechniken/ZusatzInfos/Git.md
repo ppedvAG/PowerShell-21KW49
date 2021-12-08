@@ -46,7 +46,7 @@ Zeigt in der Konsole die Commithistory an.
 ---
 
 ```bash
-git clone <url> <optional OrdnerNAme>
+git clone <url> <optional OrdnerName>
 ```
 Klont ein Remoterepository auf das lokale System sodass lokal damit gearbeiter werden kann.
 ```bash
