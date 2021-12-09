@@ -29,3 +29,11 @@ Begleitende Informationen zu den PowerShell Kursen der ppedv AG in KW 49
 - Git
 - DSC 
 - Skriptsicherheit
+- Skripting
+    - Parametrisierung
+    - Parametervalidierung
+---
+- Advanced Scripting
+- Funktionen
+- SkriptModule / eigene PS Module
+- PipeLineFähigkeit 
