@@ -38,3 +38,4 @@ Begleitende Informationen zu den PowerShell Kursen der ppedv AG in KW 49
 - SkriptModule / eigene PS Module
 - PipeLineFähigkeit 
 - Class / Enum
+- Fehlerbehandlung
