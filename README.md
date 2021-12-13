@@ -37,5 +37,10 @@ Begleitende Informationen zu den PowerShell Kursen der ppedv AG in KW 49
 - Funktionen
 - SkriptModule / eigene PS Module
 - PipeLineFähigkeit 
+- Benutzung von Rest Apis in Powershell
 - Class / Enum
 - Fehlerbehandlung
+- Skripting Tipps
+- PowerShell Remoting
+- WMI / CIM
+- NetObjekte in Powershell (System.Speech)
